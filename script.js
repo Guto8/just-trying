@@ -9,6 +9,8 @@ function addproduto() {
     $lista.innerHTML +=item;
     $produto.value = '';
     $produto.focus();
+
+
 }
 
 $produto.addEventListener('keyup', function(e){

@@ -7,8 +7,9 @@
 }
 body{
     background: linear-gradient(120deg, #89BBFE, #86DC40);
+    height: 100vh;
 }
-.cabeçalho{
+header{
     text-align: left;
     font-size: larger;
     margin: 25px;
